@@ -8,7 +8,7 @@ import java.util.Map;
  * @author <a href="mailto:haw358linux@163.com">黄爱伟</a>
  *
  */
-public class ExtensionUtil {
+public class ExtensionNameUtil {
 	private static final Map<String, String> EXT = new HashMap<String, String>();
 	static {
 		EXT.put("image/jpeg", ".jpg");
